@@ -1,3 +1,2 @@
-# Lars-Szagun-
-Lars
+# Lars Szagun
 ![Screenshot](lars.jpeg)
